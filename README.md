@@ -1,2 +1,2 @@
 # SpringMVC
-Contact Manager System Using SpringMVC
+Contact Management System Using SpringMVC
